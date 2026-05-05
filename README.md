@@ -157,5 +157,16 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="ggml-org--llama.cpp"></div>
 
+### ggml-org--llama.cpp
+
+🔗 [source](https://github.com/ggml-org/llama.cpp) – [<code><small>b9033</small></code>](https://github.com/ggml-org/llama.cpp/releases/tag/b9033)
+
+| File | Size | Download |
+|------|------|----------|
+| `llama-b9033-bin-win-cpu-arm64.zip` | 9.2 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-cpu-arm64.zip) |
+| `llama-b9033-bin-win-cpu-x64.zip` | 15.2 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-cpu-x64.zip) |
+| `llama-b9033-bin-win-opencl-adreno-arm64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-opencl-adreno-arm64.zip) |
+| `llama-b9033-bin-win-vulkan-x64.zip` | 32.0 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-vulkan-x64.zip) |
 <!-- RELEASES_END -->
