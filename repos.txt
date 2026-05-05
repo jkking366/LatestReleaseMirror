@@ -3,4 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
-ggml-org/llama.cpp|\.zip
+ggml-org/llama.cpp|win-cuda
