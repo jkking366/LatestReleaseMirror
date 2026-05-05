@@ -157,5 +157,32 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="ggml-org--llama.cpp"></div>
 
+### ggml-org--llama.cpp
+
+🔗 [source](https://github.com/ggml-org/llama.cpp) – [<code><small>b9033</small></code>](https://github.com/ggml-org/llama.cpp/releases/tag/b9033)
+
+| File | Size | Download |
+|------|------|----------|
+| `llama-b9033-bin-310p-openEuler-aarch64.tar.gz` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-310p-openEuler-aarch64.tar.gz) |
+| `llama-b9033-bin-310p-openEuler-x86.tar.gz` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-310p-openEuler-x86.tar.gz) |
+| `llama-b9033-bin-910b-openEuler-aarch64-aclgraph.tar.gz` | 10.5 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-910b-openEuler-aarch64-aclgraph.tar.gz) |
+| `llama-b9033-bin-910b-openEuler-x86-aclgraph.tar.gz` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-910b-openEuler-x86-aclgraph.tar.gz) |
+| `llama-b9033-bin-android-arm64.tar.gz` | 61.9 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-android-arm64.tar.gz) |
+| `llama-b9033-bin-macos-arm64-kleidiai.tar.gz` | 8.2 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-macos-arm64-kleidiai.tar.gz) |
+| `llama-b9033-bin-macos-arm64.tar.gz` | 8.2 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-macos-arm64.tar.gz) |
+| `llama-b9033-bin-macos-x64.tar.gz` | 8.2 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-macos-x64.tar.gz) |
+| `llama-b9033-bin-ubuntu-arm64.tar.gz` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-arm64.tar.gz) |
+| `llama-b9033-bin-ubuntu-openvino-2026.0-x64.tar.gz` | 11.9 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-openvino-2026.0-x64.tar.gz) |
+| `llama-b9033-bin-ubuntu-s390x.tar.gz` | 12.1 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-s390x.tar.gz) |
+| `llama-b9033-bin-ubuntu-sycl-fp16-x64.tar.gz` | 42.4 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-sycl-fp16-x64.tar.gz) |
+| `llama-b9033-bin-ubuntu-sycl-fp32-x64.tar.gz` | 42.3 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-sycl-fp32-x64.tar.gz) |
+| `llama-b9033-bin-ubuntu-vulkan-arm64.tar.gz` | 24.3 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-vulkan-arm64.tar.gz) |
+| `llama-b9033-bin-ubuntu-vulkan-x64.tar.gz` | 30.9 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-vulkan-x64.tar.gz) |
+| `llama-b9033-bin-ubuntu-x64.tar.gz` | 13.4 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-ubuntu-x64.tar.gz) |
+| `llama-b9033-bin-win-cpu-arm64.zip` | 9.2 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-cpu-arm64.zip) |
+| `llama-b9033-bin-win-cpu-x64.zip` | 15.2 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-cpu-x64.zip) |
+| `llama-b9033-bin-win-opencl-adreno-arm64.zip` | 9.7 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-opencl-adreno-arm64.zip) |
+| `llama-b9033-bin-win-vulkan-x64.zip` | 32.0 MB | [⬇️ Download](https://raw.githubusercontent.com/jkking366/LatestReleaseMirror/main/releases/ggml-org/llama.cpp/llama-b9033-bin-win-vulkan-x64.zip) |
 <!-- RELEASES_END -->
