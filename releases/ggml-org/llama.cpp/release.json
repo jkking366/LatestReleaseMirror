@@ -2,6 +2,6 @@
   "tag": "b9033",
   "status": "stable",
   "published_at": "2026-05-05T14:17:35Z",
-  "filter_pattern": ".zip",
-  "updated_at": "2026-05-05T18:26:33Z"
+  "filter_pattern": "win-cuda",
+  "updated_at": "2026-05-05T18:34:01Z"
 }
